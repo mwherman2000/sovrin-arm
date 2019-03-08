@@ -14,3 +14,4 @@ _To be continued..._
 ## References
 
 1. [What’s the Difference: Glossary, Dictionary, Taxonomy, Ontology?](https://thedatamaven.net/2017/04/whats-the-difference-glossary-dictionary-taxonomy-ontology/)
+2. [How we think about how we work](https://hyperonomy.com/2016/05/09/how-do-we-think-about-how-we-work/)
