@@ -10,3 +10,7 @@ _Draft document for discussion purposes_
 Figure 1. Sovrin Glossary: Roles Viewpoint (work in progress)
 
 _To be continued..._
+
+## References
+
+1. [What’s the Difference: Glossary, Dictionary, Taxonomy, Ontology?](https://thedatamaven.net/2017/04/whats-the-difference-glossary-dictionary-taxonomy-ontology/)
