@@ -7,6 +7,6 @@ _Draft document for discussion purposes_
 
 ![HBB-Sovrin-Glossary-Roles-Viewpoint](images/HBB-Sovrin-Glossary-Roles-Viewpoint.png)
 
-Figure 1. Sovrin Glossary: Roles Viewpoint
+Figure 1. Sovrin Glossary: Roles Viewpoint (work in progress)
 
 _To be continued..._
