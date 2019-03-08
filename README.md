@@ -3,11 +3,11 @@
 _Draft document for discussion purposes_
 
 
-## Sovrin Glossary: Roles Viewpoint
+## Sovrin Glossary: Roles Taxonomy Viewpoint
 
 ![HBB-Sovrin-Glossary-Roles-Viewpoint](images/HBB-Sovrin-Glossary-Roles-Viewpoint.png)
 
-Figure 1. Sovrin Glossary: Roles Viewpoint (work in progress)
+Figure 1. Sovrin Glossary: Roles Taxonomy Viewpoint (work in progress)
 
 _To be continued..._
 
