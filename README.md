@@ -4,7 +4,6 @@ _Draft document for discussion purposes_
 
 Update cycle: As required – sometimes several times in a single day.
 
-
 ## Sovrin Glossary: Roles Taxonomy Viewpoint
 
 ![HBB-Sovrin-Glossary-Roles-Viewpoint](images/HBB-Sovrin-Glossary-Roles-Viewpoint.png)
