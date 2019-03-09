@@ -1,0 +1,16 @@
+ 
+Michael Herman
+Trust Anchor
+The role of a Trust Anchor needs to be more precise/clear. Complete this sentence: The Trust Anchor role enables an Issuer to <do what?>.
+ 
+Drummond Reed
+The TA role does not enable an Issuer to do anything. It matters to Verifiers, not Issuers. In fact I'm going to edit this definition slightly to make it clear that an Issuer cannot declare itself a TA. Only a Governance Authority or a Verifier can declare an Issuer a TA.
+ 
+Drummond Reed
+Marked as resolved
+
+
+Agent -> Drummond
+
+Drummond Reed
+Mike, this is a Glossary. It simply defines and, to a limited extent, cross-references terms. I agree it would be helpful to have another document that looks at all of these terms from the standpoint of roles a particular entity might play. Are you interested in creating such a doc?
