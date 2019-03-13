@@ -4,13 +4,19 @@ _Draft document for discussion purposes_
 
 Update cycle: As required – sometimes several times in a single day.
 
-## 1. Sovrin Roles Taxonomy Viewpoint
+## Sovrin ARM Explorer
+
+[Sovrin ARM Explorer](explorer/index.html)
+
+## Sovrin ARM Viewpoints
+
+### 1. Sovrin Roles Taxonomy Viewpoint
 
 ![HBB-Sovrin-Roles-Viewpoint](images/HBB-Sovrin-Glossary-Roles-Viewpoint.png)
 
 Figure 1. Sovrin Roles Taxonomy Viewpoint 
 
-## 2. Sovrin Core Roles Taxonomy Viewpoint
+### 2. Sovrin Core Roles Taxonomy Viewpoint
 
 ![HBB-Sovrin-Core-Roles-Viewpoint](images/HBB-Sovrin-Glossary-Core-Roles-Viewpoint.png)
 
