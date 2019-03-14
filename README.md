@@ -6,7 +6,7 @@ Update cycle: As required – sometimes several times in a single day.
 
 ## Sovrin ARM Explorer
 
-[Sovrin ARM Explorer](https://mwherman2000.github.io/sovrin-arm/)
+Click here: [Sovrin ARM Explorer](https://mwherman2000.github.io/sovrin-arm/)
 
 ## Sovrin ARM Viewpoints
 
