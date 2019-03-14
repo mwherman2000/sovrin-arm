@@ -1580,7 +1580,5 @@ Sovrin Governance Framework Comprehensive Architecture Reference Model (SOVRIN A
 Sovrin Governance Framework Comprehensive Architecture Reference Model (SOVRIN ARM)</documentation>
     </element>
   </folder>
-  <purpose>Sovrin Governance Framework Comprehensive Architecture Reference Model (SOVRIN ARM)&#xD;
-&#xD;
-https://github.com/mwherman2000/sovrin-arm/blob/master/README.md#sovrin-arm---sovrin-governance-framework-comprehensive-architecture-reference-model-sovrin-arm</purpose>
+  <purpose>Sovrin Governance Framework Comprehensive Architecture Reference Model (SOVRIN ARM)</purpose>
 </archimate:model>
