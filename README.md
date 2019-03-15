@@ -8,6 +8,8 @@ Update cycle: As required – sometimes several times in a single day.
 
 Click here: [Sovrin ARM Interactive Explorer](https://mwherman2000.github.io/sovrin-arm/)
 
+[![Sovrin ARM Interactive Explorer](images/sovrin-arm-explorer.png)](https://mwherman2000.github.io/sovrin-arm/)
+
 ## Sovrin ARM Static Viewpoints
 
 ### 1. Sovrin Roles Taxonomy Viewpoint
