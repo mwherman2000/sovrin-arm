@@ -148,21 +148,26 @@ A Credential issued by an Identity Owner—the Delegator—to authorize another 
 </documentation>
     </element>
     <element xsi:type="archimate:BusinessActor" name="Subject" id="3f365063-f5cf-4939-916b-7708f2210589">
-      <documentation>An actor who has been assigned the Subject role.&#xD;
+      <documentation>Subject&#xD;
+An actor who has been assigned the Subject role.&#xD;
 </documentation>
     </element>
     <element xsi:type="archimate:BusinessActor" name="Issuer" id="8c8fd2f6-b90c-4655-931f-d909b7389436">
-      <documentation>An actor assigned the Issuer role.&#xD;
+      <documentation>Issuer&#xD;
+An actor assigned the Issuer role.&#xD;
 </documentation>
     </element>
     <element xsi:type="archimate:BusinessActor" name="Holder" id="b5014602-9f51-4d4c-a579-e4ac3617a604">
-      <documentation>An actor assigned the Holde role.</documentation>
+      <documentation>Holder&#xD;
+An actor assigned the Holde role.</documentation>
     </element>
     <element xsi:type="archimate:BusinessActor" name="Verifier" id="bac23991-c617-490e-a61a-7565febd0e4e">
-      <documentation>An actor who has been assigned the Verifier role.</documentation>
+      <documentation>Verifier&#xD;
+An actor who has been assigned the Verifier role.</documentation>
     </element>
     <element xsi:type="archimate:BusinessActor" name="Insurer" id="42697199-a6ed-4fe9-b2c6-f53c7ed5df45">
-      <documentation>An actor assigndd to the Insurer role.&#xD;
+      <documentation>Insurer&#xD;
+An actor assigndd to the Insurer role.&#xD;
 </documentation>
     </element>
     <element xsi:type="archimate:BusinessObject" name="Zero Knowledge Proof" id="a1aa18bb-d90a-4a91-bca8-046b90d5af66">

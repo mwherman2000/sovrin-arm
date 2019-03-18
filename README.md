@@ -4,11 +4,13 @@ _Draft document for discussion purposes_
 
 Update cycle: As required – sometimes several times in a single day.
 
-## Sovrin ARM Interactive Explorer
+## SOVRIN ARM Interactive Explorer
 
-Click here: [Sovrin ARM Interactive Explorer](https://mwherman2000.github.io/sovrin-arm/)
+Click here: [SOVRIN ARM Interactive Explorer](https://mwherman2000.github.io/sovrin-arm/)
 
-[![Sovrin ARM Interactive Explorer](images/sovrin-arm-explorer.png)](https://mwherman2000.github.io/sovrin-arm/)
+[![SOVRIN ARM Interactive Explorer](images/sovrin-arm-explorer.png)](https://mwherman2000.github.io/sovrin-arm/)
+
+NOTE: The above SOVRIN ARM Interactive Explorer is completely separate (for now) from the [Hyperledger Indy/Sovrin/DID Comprehensive Architecture Reference Model (INDY ARM)](https://github.com/mwherman2000/indy-arm/blob/master/README.md#indy-arm---hyperledger-indysovrindid-comprehensive-architecture-reference-model-indy-arm).  The former is the ARM for the Sovrin Governance Framework while the latter is the ARM for the Indy software platform.
 
 ## Sovrin ARM Static Viewpoints
 
