@@ -6,15 +6,15 @@ Update cycle: As required – sometimes several times in a single day.
 
 ## Current Scope
 
-The current scope of the SOVRIN ARM model contains more than 100 elements including the following:
-- All roles (and closely related elements)
+The current SOVRIN ARM model contains more than 100 elements including the following:
+- All role elements (and closely related elements)
 - All elements in the Appendix B - Taxonomy of Entities diagram
 - Most Sovrin Governance Framework documents
 - Most Things (and closed related elements)
 
-The remaining elements from the Sovrin Glossary elements will be added based on demand and time.
+The remaining elements from the Sovrin Glossary will be added based on demand and time.
 
-The original inspiration/driver for creating the SOVRIN ARM was the roles and actors taxonomy diagram for the [HyperLedger Indy Getting Started Guide for Enterprise Architects and Developers (INDY GSG-EA)](https://github.com/mwherman2000/indy-gsg-ea/blob/master/python/doc/getting_started-enterpise.md#additional-actors).
+The original inspiration/driver for creating the SOVRIN ARM was the roles and actors taxonomy diagram in the [HyperLedger Indy Getting Started Guide for Enterprise Architects and Developers (INDY GSG-EA)](https://github.com/mwherman2000/indy-gsg-ea/blob/master/python/doc/getting_started-enterpise.md#additional-actors).
 
 ## SOVRIN ARM Interactive Explorer
 
