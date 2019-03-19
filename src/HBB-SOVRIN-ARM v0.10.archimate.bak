@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="Sovrin Framework Architecture Reference Model (SOVRIN ARM)" id="f0feb6de-1a0b-4195-8a50-ae08d685dbb6" version="4.0.1">
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="Sovrin Governance Framework Architecture Reference Model (SOVRIN ARM)" id="f0feb6de-1a0b-4195-8a50-ae08d685dbb6" version="4.0.1">
   <folder name="Strategy" id="fc3a8e35-c274-4475-8404-0367269dd254" type="strategy"/>
   <folder name="Business" id="c2eea58c-df25-481b-b8b5-062001c8a900" type="business">
     <element xsi:type="archimate:BusinessRole" name="Trust Anchor" id="a82d7ee1-9375-4109-8325-9883af2800e9">
