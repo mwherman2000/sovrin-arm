@@ -6,10 +6,11 @@ Update cycle: As required – sometimes several times in a single day.
 
 ## Current Scope
 
-The current scope of the SOVRIN ARM model includes the following:
+The current scope of the SOVRIN ARM model contains more than 100 elements including the following:
 - All roles (and closely related elements)
 - All elements in the Appendix B - Taxonomy of Entities diagram
 - Most Sovrin Governance Framework documents
+- Most Things (and closed related elements)
 
 The remainding elements from the Sovrin Glossary elements will be added based on demand and time.
 
