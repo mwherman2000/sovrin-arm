@@ -157,6 +157,11 @@ https://github.com/mwherman2000/sovrin-arm/blob/master/README.md#sovrin-arm---so
 										dataElements.push({id:"7640fa37-2ade-4519-9edd-61ed8beb1c76", type:"BusinessRole", name:decodeURL("Trustee"), description:decodeURL("")});
 										dataElements.push({id:"ebb8bd41-78b1-4706-ae05-4f2ae64a80ef", type:"Representation", name:decodeURL("Master+Document"), description:decodeURL("")});
 										dataElements.push({id:"f21b0633-60e4-4883-900c-f2067668a4d2", type:"BusinessActor", name:decodeURL("Group"), description:decodeURL("")});
+										dataElements.push({id:"10b11c52-2d86-431f-80e9-09bafca31978", type:"BusinessRole", name:decodeURL("Natural+Thing"), description:decodeURL("")});
+										dataElements.push({id:"5163ea2e-0807-4aeb-805c-bfdd45c510c6", type:"BusinessRole", name:decodeURL("Man-Made+Thing"), description:decodeURL("")});
+										dataElements.push({id:"bcc1ad99-3542-4542-b94e-a4336089ea61", type:"BusinessRole", name:decodeURL("Active+Thing"), description:decodeURL("")});
+										dataElements.push({id:"85834524-ffb9-4cf8-9ef3-e75d9cd05fed", type:"BusinessRole", name:decodeURL("Passive+Thing"), description:decodeURL("")});
+										dataElements.push({id:"9fb4f3d2-24f2-4213-a38d-81fb9bff1081", type:"BusinessRole", name:decodeURL("Controller"), description:decodeURL("")});
 
 
 										dataElements.push({id:"91f94b4c-de2d-48bd-ab2a-5a74536bffe1", type:"DataObject", name:decodeURL("Sovrin+DID"), description:decodeURL("")});
@@ -164,6 +169,9 @@ https://github.com/mwherman2000/sovrin-arm/blob/master/README.md#sovrin-arm---so
 										dataElements.push({id:"109ee929-c8ca-4257-bb67-56d149acaa1c", type:"ApplicationComponent", name:decodeURL("Agent"), description:decodeURL("")});
 										dataElements.push({id:"33b1ad89-19da-40f2-a1a3-6d99ef1c8e74", type:"ApplicationComponent", name:decodeURL("Wallet"), description:decodeURL("")});
 										dataElements.push({id:"545fe22f-94ee-430b-9e70-2739d32127a0", type:"ApplicationComponent", name:decodeURL("Vault"), description:decodeURL("")});
+										dataElements.push({id:"190a8fae-1ca9-40fa-a2b3-7a7a232f529f", type:"ApplicationService", name:decodeURL("%28Cloud+Agent%29+Service+Endpoint"), description:decodeURL("")});
+										dataElements.push({id:"44abb8ea-c216-4a9b-9467-8a3676bd1f9b", type:"ApplicationComponent", name:decodeURL("Cloud+Agent"), description:decodeURL("")});
+										dataElements.push({id:"d28f49a5-d349-417d-8f32-326f1af45c66", type:"ApplicationComponent", name:decodeURL("Edge+Agent"), description:decodeURL("")});
 
 
 										dataElements.push({id:"380034be-f1cb-4aa8-b73a-bfcd7bb0e40a", type:"CommunicationNetwork", name:decodeURL("Another+Network+%28other+than+Sovrin%29"), description:decodeURL("")});
@@ -307,11 +315,24 @@ https://github.com/mwherman2000/sovrin-arm/blob/master/README.md#sovrin-arm---so
 										dataRelations.push({id:"1178f57b-ab6a-4a27-b2e7-df834f75c10a", type:"SpecializationRelationship", name:decodeURL(""), description:decodeURL(""), source:"b0c4c998-a2f7-414c-bd10-b77fe5aa6614", target:"2049d539-68a1-4c57-852e-aba12b22452a"});
 										dataRelations.push({id:"bc0ab417-fc2e-45ea-873a-4e37e218fdd6", type:"SpecializationRelationship", name:decodeURL(""), description:decodeURL(""), source:"64da5695-cbec-4eac-abef-de75c376dd2f", target:"ff1ba2aa-5767-4641-9fda-311ff0679948"});
 										dataRelations.push({id:"3020f532-3650-43ca-b20c-32ce1fc67eb4", type:"AssignmentRelationship", name:decodeURL(""), description:decodeURL(""), source:"f21b0633-60e4-4883-900c-f2067668a4d2", target:"87988113-c033-495a-b520-b0ad99513d6f"});
+										dataRelations.push({id:"d0474dda-cc06-4941-a01d-3deb7f7d4ed7", type:"SpecializationRelationship", name:decodeURL(""), description:decodeURL(""), source:"5163ea2e-0807-4aeb-805c-bfdd45c510c6", target:"f68b698f-f8c4-41ef-8e6a-a92a1ded341e"});
+										dataRelations.push({id:"de6ac790-2011-4a6f-96ec-d332872bd253", type:"SpecializationRelationship", name:decodeURL(""), description:decodeURL(""), source:"10b11c52-2d86-431f-80e9-09bafca31978", target:"f68b698f-f8c4-41ef-8e6a-a92a1ded341e"});
+										dataRelations.push({id:"a1529ead-eea4-4e63-b4a5-3f1dad12b680", type:"SpecializationRelationship", name:decodeURL(""), description:decodeURL(""), source:"85834524-ffb9-4cf8-9ef3-e75d9cd05fed", target:"5163ea2e-0807-4aeb-805c-bfdd45c510c6"});
+										dataRelations.push({id:"08c7fdbf-0785-43a9-a95f-d809f958b0dd", type:"SpecializationRelationship", name:decodeURL(""), description:decodeURL(""), source:"bcc1ad99-3542-4542-b94e-a4336089ea61", target:"5163ea2e-0807-4aeb-805c-bfdd45c510c6"});
+										dataRelations.push({id:"4e7148f8-e507-4157-96d9-35cbc71a339f", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), source:"33b1ad89-19da-40f2-a1a3-6d99ef1c8e74", target:"d28f49a5-d349-417d-8f32-326f1af45c66"});
+										dataRelations.push({id:"ec16a180-44f8-48f2-9812-5f8eeedaa865", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), source:"33b1ad89-19da-40f2-a1a3-6d99ef1c8e74", target:"44abb8ea-c216-4a9b-9467-8a3676bd1f9b"});
+										dataRelations.push({id:"7777d095-7353-4480-ba03-8c3d843b1144", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), source:"44abb8ea-c216-4a9b-9467-8a3676bd1f9b", target:"f22e40f7-95e0-4f24-8334-67c98084ff29"});
+										dataRelations.push({id:"1764509c-f263-4e62-ac04-8ba73544f2dd", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), source:"44abb8ea-c216-4a9b-9467-8a3676bd1f9b", target:"190a8fae-1ca9-40fa-a2b3-7a7a232f529f"});
+										dataRelations.push({id:"a57e078c-dffa-42a3-a9f9-ae2712603f43", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), source:"d28f49a5-d349-417d-8f32-326f1af45c66", target:"f22e40f7-95e0-4f24-8334-67c98084ff29"});
+										dataRelations.push({id:"e08712d4-21c7-44b7-87d6-bf88ba5a740c", type:"SpecializationRelationship", name:decodeURL(""), description:decodeURL(""), source:"9fb4f3d2-24f2-4213-a38d-81fb9bff1081", target:"ff1ba2aa-5767-4641-9fda-311ff0679948"});
+										dataRelations.push({id:"e5511db5-ab1a-47dd-a43a-eff16d96f6bc", type:"SpecializationRelationship", name:decodeURL(""), description:decodeURL(""), source:"641000b5-9fdc-4505-ba24-458a48a34b78", target:"9fb4f3d2-24f2-4213-a38d-81fb9bff1081"});
 
 
 										dataElements.push({id:"1a55514e-1c07-41f8-b736-9db86a444f02", type:"ArchimateDiagramModel", name:decodeURL("ROLES%3A+All+Roles+Viewpoint"), description:decodeURL("")});
 										dataElements.push({id:"0378a89e-873e-4fde-9bf4-d6844ab03f3f", type:"ArchimateDiagramModel", name:decodeURL("ROLES%3A+Core+Functional+Roles+Viewpoint"), description:decodeURL("")});
 										dataElements.push({id:"ad3f4b3a-d03a-45c0-a7f0-ef849441e25f", type:"ArchimateDiagramModel", name:decodeURL("SGF%3A+Core+Governance+Framework+Viewpoint"), description:decodeURL("")});
+										dataElements.push({id:"dd018504-7604-4045-89d1-b5e86a2a9037", type:"ArchimateDiagramModel", name:decodeURL("ROLES%3A+Appendix+B+-+Taxonomy+of+Entities"), description:decodeURL("")});
+										dataElements.push({id:"8d09aa3a-c46b-4200-b12c-c8ae4ef90ecb", type:"ArchimateDiagramModel", name:decodeURL("ROLES%3A+Cloud+and+Edge+Agents"), description:decodeURL("")});
 
 
 
