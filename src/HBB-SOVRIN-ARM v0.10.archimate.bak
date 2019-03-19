@@ -1739,9 +1739,6 @@ Sovrin Governance Framework Comprehensive Architecture Reference Model (SOVRIN A
         <bounds x="-696" y="366" width="120" height="49"/>
         <sourceConnection xsi:type="archimate:Connection" id="dcc5da62-68fc-4249-891b-c32d1ecb2309" source="5a919f7a-2204-4d5d-b5c1-3d726cdf42d6" target="a1aba994-3bb0-4e22-95ae-6eec253d4407" archimateRelationship="b7c5f174-3a3d-4ccc-a984-f174a80d98e0"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="c5b8f426-3027-420a-b775-b030f18c790e" archimateElement="308efc1d-de16-4ebb-8620-47448fce78a7">
-        <bounds x="240" y="456" width="120" height="46"/>
-      </child>
       <child xsi:type="archimate:DiagramObject" id="de99d2a6-e461-4217-ab65-e7a04c1e6ece" archimateElement="10b11c52-2d86-431f-80e9-09bafca31978">
         <bounds x="-492" y="240" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="1fcff7b6-76ec-49ff-b4e1-e6cb14a96560" source="de99d2a6-e461-4217-ab65-e7a04c1e6ece" target="a4290632-23ee-49a5-b135-06e0d6f8f98a" archimateRelationship="de6ac790-2011-4a6f-96ec-d332872bd253"/>
@@ -1847,9 +1844,6 @@ Sovrin Governance Framework Comprehensive Architecture Reference Model (SOVRIN A
           <bendpoint startX="12" startY="106" endX="-228" endY="9"/>
         </sourceConnection>
         <sourceConnection xsi:type="archimate:Connection" id="336f5da5-60ed-4591-9ecd-9b5b0f3921b8" source="fbe77f13-e385-4999-bffa-2a59651509eb" target="99583413-0335-421e-91fd-91187374b75a" archimateRelationship="4e7148f8-e507-4157-96d9-35cbc71a339f"/>
-      </child>
-      <child xsi:type="archimate:DiagramObject" id="1ff85d6f-1075-406b-a0f4-40f1bb053423" archimateElement="308efc1d-de16-4ebb-8620-47448fce78a7">
-        <bounds x="240" y="456" width="120" height="46"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="6eec324f-588d-441f-8152-b53366c27cc9" targetConnections="15d59cc6-53eb-4025-837f-46ba7566f51a" archimateElement="190a8fae-1ca9-40fa-a2b3-7a7a232f529f">
         <bounds x="1200" y="948" width="120" height="55"/>
